@@ -1,0 +1,3 @@
+rm -rf dist
+mkdir dist
+zip dist/Qub3DS-`cat VERSION`.zip Qub3DS.nds README 

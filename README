@@ -1,0 +1,11 @@
+Qub3DS is a Nintendo DS port of Qub3D, a tetris like mini-game from Grand Theft Auto 4.
+
+I've finally managed to release first version. I haven't been coding games for ages so it was fun and little break from doing enterprise and Java stuff. I don't have much experience in game programming, this is actually first game which I'm releasing to public so please be patient. ;)
+
+To run this game simply copy it to your DS hombrew hardware and then execute. There's no need to use DLDI patcher, but doing this will allow you to save your high scores.
+Note that game will create a little file on your device when using DLDI patch. This files name is "qub3scr" and it stores your highscores.
+Enjoy!
+
+For updates and more info see http://wojtekj.blogspot.com/search/label/Qub3DS
+
+Wojtek J. <wojtek.janiszewski@gmail.com>
